@@ -4,7 +4,8 @@
 
 ### 🚀 Full Stack Developer | Machine Learning Engineer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Applications;Full+Stack+%2B+Machine+Learning;Always+Learning%2C+Always+Building+🔥" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Engineer;Always+Learning+Always+Building)
+](https://git.io/typing-svg)
 
 </div>
 
